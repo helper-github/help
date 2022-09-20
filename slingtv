@@ -1,0 +1,34 @@
+<html>
+<center>
+<h1>
+<font color="blue">
+How to use Sling TV
+</font>
+</h1>
+</center>
+<br>
+<center>
+<h1>
+Videos:
+</h1>
+</center>
+<br>
+<center>
+</center>
+<center>
+<body>
+	<video width="800" height="500" controls>
+		<source src="https://raw.githubusercontent.com/helper-github/media/main/yt5s.com-SLING%20TV_%20Install%20on%20Amazon%20Fire%20TV(360p).mp4" type="video/mp4">
+	</video>
+</body>
+</center>
+<center>
+<video width="800" height="500" controls>
+	<source src="https://raw.githubusercontent.com/helper-github/media/main/yt5s.com-Sling%20TV_%20On%20Now%20-%20Android%20TV(360p).mp4" type="video/mp4">
+</video>
+</center>
+<center>
+<video width="800" height="500" controls>
+	<source src="https://raw.githubusercontent.com/helper-github/media/main/yt5s.com-Sling%20TV_%20Install%20on%20Roku(360p).mp4" type="video/mp4">
+</video>
+</center>
