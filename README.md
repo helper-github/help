@@ -1,3 +1,4 @@
+<link rel="icon" href="https://raw.githubusercontent.com/helper-github/media/main/logo-search-grid-1x-removebg-preview.png">
 # Get help with anything!
 
 # Links:
